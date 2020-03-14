@@ -1,0 +1,1 @@
+This project is for HCI course. I used Axure RP software to get the interactive prototype. The zip file is the web view version of the prototype. 
